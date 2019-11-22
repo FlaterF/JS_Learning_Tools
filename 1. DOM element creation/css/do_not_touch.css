@@ -1,0 +1,29 @@
+  /*////////////////////////////////////////
+ //     DO NOT CHANGE THESE SETTINGS     //
+////////////////////////////////////////*/
+
+body {
+    background-color: #444444;
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+}
+
+.header {    
+    color: #EEEEEE;
+}
+
+.box {
+    border-radius: 25px;
+    padding: 50px;
+    margin: 10px;
+    background-color: #EEEEEE;
+    font-size: 20pt;
+}
+
+#realTarget {
+}
+
+#htmlTarget {
+    font-family: 'Source Code Pro', monospace;
+    border: none !important;
+}
